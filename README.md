@@ -1,7 +1,7 @@
 # 🧮 JavaScript Calculator
 
 ## 📌 Live Demo
-https://jaul04.github.io/javascript-calculator/
+https://jaul04.github.io/Calculator/
 
 ## 📖 Project Description
 This is a simple and responsive web-based calculator built using HTML, CSS, and JavaScript.  
